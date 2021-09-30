@@ -1,0 +1,116 @@
+[
+	{
+		"id": 1,
+		"title": "Samsung-s8",
+		"price": 70000,
+		"thumbnail": "https://celulares.com/Samsung-s8.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Nokia-1100",
+		"price": 5500,
+		"thumbnail": "https://celulares.com/Nokia-1100.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Xiami-A1",
+		"price": 30000,
+		"thumbnail": "https://celulares.com/Xiami-A1.jpg"
+	},
+	{
+		"id": 4,
+		"title": "Motorola-G100",
+		"price": 90000,
+		"thumbnail": "https://celulares.com/Motorola-G100.jpg"
+	},
+	{
+		"id": 5,
+		"title": "Samsung A51",
+		"price": "39999",
+		"thumbnail": "https://celulares.com/Samsung-A51.jpg"
+	},
+	{
+		"title": "Samsung A31",
+		"price": "37999",
+		"thumbnail": "https://celulares.com/Samsung-A31.jpg",
+		"id": 6
+	},
+	{
+		"title": "Samsung A30",
+		"price": "32999",
+		"thumbnail": "https://celulares.com/Samsung-A30.jpg",
+		"id": 7
+	},
+	{
+		"title": "Samsung A32",
+		"price": "34999",
+		"thumbnail": "https://celulares.com/Samsung-A32.jpg",
+		"id": 8
+	},
+	{
+		"title": "Samsung A33",
+		"price": "35999",
+		"thumbnail": "https://celulares.com/Samsung-A33.jpg",
+		"id": 9
+	},
+	{
+		"title": "Samsung A34",
+		"price": "36999",
+		"thumbnail": "https://celulares.com/Samsung-A34.jpg",
+		"id": 10
+	},
+	{
+		"title": "Samsung A20",
+		"price": "16999",
+		"thumbnail": "https://celulares.com/Samsung-A20.jpg",
+		"id": 11
+	},
+	{
+		"title": "Samsung A21",
+		"price": "17999",
+		"thumbnail": "https://celulares.com/Samsung-A21.jpg",
+		"id": 12
+	},
+	{
+		"title": "Iphone 6S",
+		"price": "49000",
+		"thumbnail": "https://celulares.com/Iphone-6S.jpg",
+		"id": 13
+	},
+	{
+		"title": "Iphone 6S",
+		"price": "49000",
+		"thumbnail": "https://celulares.com/Iphone-6S.jpg",
+		"id": 14
+	},
+	{
+		"title": "Samsung A51",
+		"price": "51111",
+		"thumbnail": "https://celulares.com/Samsung-A51.jpg",
+		"id": 15
+	},
+	{
+		"title": "Samsung A51",
+		"price": "345345",
+		"thumbnail": "https://celulares.com/Samsung-A51.jpg",
+		"id": 16
+	},
+	{
+		"title": "Samsung A51",
+		"price": "345345",
+		"thumbnail": "https://celulares.com/Samsung-A51.jpg",
+		"id": 17
+	},
+	{
+		"title": "Samsung A51",
+		"price": "345345",
+		"thumbnail": "https://celulares.com/Samsung-A51.jpg",
+		"id": 18
+	},
+	{
+		"title": "Iphone 7S",
+		"price": "58999",
+		"thumbnail": "https://celulares.com/Iphone-7S.jpg",
+		"id": 19
+	}
+]
