@@ -1,0 +1,19 @@
+html
+
+    head
+        link(href="https:cdn.jsdelivr.netnpmbootstrap@5.1.1distcssbootstrap.min.css" rel="stylesheet" integrity='sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU' crossorigin='anonymous') 
+    body
+        include partials/h1
+        p(class="lead") Agregar producto
+
+        form(method="POST" action="/api/productos/guardar")
+            div(class="mb-3")
+                label(class="form-label") Title: 
+                input(name="title" type="text" class="form-control")
+            div(class="mb-3")
+                label(class="form-label") Price: 
+                input(name="price" type="number" class="form-control")
+            div(class="mb-3")
+                label(class="form-label") Thumbnail: 
+                input(name="thumbnail" type="text" class="form-control")
+            button(type="submit" class="btn btn-primary") Guardar

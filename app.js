@@ -1,7 +1,7 @@
 // Variables y expresiones del servidor
 const express = require("express");
 const app = express();
-const ejs = require("ejs");
+const pug = require('pug');
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 const puerto = 8080;
@@ -14,7 +14,7 @@ const archivo = require("./productos/archivo");
 const Productos = require("./productos/productos");
 
 app.set("views", "./views"); // especifica el directorio de vistas
-app.set("view engine", "ejs"); // registra el motor de plantillas
+app.set("view engine", "pug"); // registra el motor de plantillas
 
 // Implementado para handlebars
 

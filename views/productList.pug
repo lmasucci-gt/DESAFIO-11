@@ -1,0 +1,24 @@
+html
+
+    head
+        link(href="https:cdn.jsdelivr.netnpmbootstrap@5.1.1distcssbootstrap.min.css" rel="stylesheet" integrity='sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU' crossorigin='anonymous') 
+    body
+        include partials/h1
+            p(class="lead") Lista de productos
+            if listExists
+                table(class="table table-dark table-striped")
+                    thead
+                        tr
+                            th(scope="col") ID
+                            th(scope="col") Title
+                            th(scope="col") Price
+                            th(scope="col") Thumbnail
+                    tbody
+                        each e in listProducts
+                            tr
+                                td=e.id
+                                td=e.title 
+                                td=e.price 
+                                td=e.thumbnail    
+
+
